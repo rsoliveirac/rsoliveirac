@@ -4,7 +4,7 @@
 ![eu](https://share-cdn.picrew.me/shareImg/org/202103/420013_LFTNEpws.png)
 
 ## Sobre mim :ok_woman: :
--  Estudante de Ciência de dados
+-  Cientista de dados
 -  Cursando Análise e Desenvolvimento de Sistemas.
 -  Interesse em Machine Learning, programação e análises de dados
 
